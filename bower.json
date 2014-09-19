@@ -1,0 +1,7 @@
+{
+  "name": "efc",
+  "version": "0.0.0",
+  "dependencies": {
+    "aura": "*"
+  }
+}
